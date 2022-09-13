@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{2C4BBC2D-CFC1-4517-BB4B-17B3818A9D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelCallsOrchestrator", "ParallelCallsOrchestrator\ParallelCallsOrchestrator.csproj", "{86F81E16-020E-4933-A4FB-D8EB84BF2983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4BBC2D-CFC1-4517-BB4B-17B3818A9D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4BBC2D-CFC1-4517-BB4B-17B3818A9D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4BBC2D-CFC1-4517-BB4B-17B3818A9D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4BBC2D-CFC1-4517-BB4B-17B3818A9D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F81E16-020E-4933-A4FB-D8EB84BF2983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F81E16-020E-4933-A4FB-D8EB84BF2983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F81E16-020E-4933-A4FB-D8EB84BF2983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F81E16-020E-4933-A4FB-D8EB84BF2983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB82996D-0F5E-4C8E-A95D-5B899A6B789C}
+	EndGlobalSection
+EndGlobal
